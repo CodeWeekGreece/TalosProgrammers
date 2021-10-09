@@ -1,6 +1,6 @@
 # bookin
 
-A new Flutter project.
+Every code we wrote is inside the lib folder
 
 ## Getting Started
 
